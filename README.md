@@ -1,5 +1,5 @@
 # CodeClause_Dec_Artificial-Intelligence_Internship
-Task 1 (#Project-I) : Object Detection System 
+Task 1 (Project-I) : Object Detection System 
 * Technology & Tools used : 
 
 1) IDE : Jupyter Notebook 
@@ -14,7 +14,7 @@ ii) Filtration of the object that seeks attention.
 At last, we can observe that ImageAI has successfully identified person and animal in the image as an object.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Task 2 (#Project-II) : Animal Species Prediction 
+Task 2 (Project-II) : Animal Species Prediction 
 * Technology & Tools used : 
 
 1) IDE : Jupyter Notebook 
@@ -32,7 +32,7 @@ The Birds class states that organisms of a similar group may considerably differ
  First, small animal species will be handled discretely by enlarging the image size and then making high-resolution detection maps, which will require additional training and testing time, thus training the detection apps in real-time. A different way of creating multi-level representation network variations can improve the model's ability.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Task 3 (#GoldenProject-I) : Blindness Detection 
+Task 3 (Golden Project-I) : Blindness Detection 
 * Technology & Tools used : 
 
 1) IDE : Jupyter Notebook 
@@ -43,7 +43,7 @@ Task 3 (#GoldenProject-I) : Blindness Detection
 The goal here is to scale their efforts through technology; to gain the ability to automatically screen images for disease and provide information on how severe the condition may be. We shall be achieving this by building a Convolutional neural network model that can automatically look at a patient’s eye image and estimate the severity of blindness in the patient. This process of automation can reduce a lot of time thereby screening the process of treating diabetic retinopathy at a large scale.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Task 4 (#GoldenProject-II) : Personality Prediction System Via CV Analysis.
+Task 4 (Golden Project-II) : Personality Prediction System Via CV Analysis.
 * Technology & Tools used : 
 
 1) IDE : Jupyter Notebook 
