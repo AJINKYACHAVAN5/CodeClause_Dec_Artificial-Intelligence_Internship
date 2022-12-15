@@ -1,22 +1,19 @@
 # CodeClause_Dec_Artificial-Intelligence_Internship
-Task 1 (Project-I) : Object Detection System 
+*Task 1 (Project-I) : Object Detection System 
 * Technology & Tools used : 
-
 1) IDE : Jupyter Notebook 
 2) Language : Python 
 3) GitHub Respository Link : https://lnkd.in/gxmpTgxc
 4) Description : Object Recognition is a technology that lies under the broader domain of Computer Vision. This technology is capable of identifying objects that exist in images and videos and tracking them. 
 
-The two significant objectives of object recognition involve : -
-
+* The two significant objectives of object recognition involve : -
 i) Identification of all objects that exist in an image.
 ii) Filtration of the object that seeks attention.
 At last, we can observe that ImageAI has successfully identified person and animal in the image as an object.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Task 2 (Project-II) : Animal Species Prediction 
+*Task 2 (Project-II) : Animal Species Prediction 
 * Technology & Tools used : 
-
 1) IDE : Jupyter Notebook 
 2) Language : Python 
 3) GitHub Respository Link : https://lnkd.in/gbiVRBGw
@@ -29,12 +26,11 @@ The Birds class states that organisms of a similar group may considerably differ
 
  A unique model with tremendous learning ablity is needed to learn about thousands of animal breeds in still images. 
 
- First, small animal species will be handled discretely by enlarging the image size and then making high-resolution detection maps, which will require additional training and testing time, thus training the detection apps in real-time. A different way of creating multi-level representation network variations can improve the model's ability.
+First, small animal species will be handled discretely by enlarging the image size and then making high-resolution detection maps, which will require additional training and testing time, thus training the detection apps in real-time. A different way of creating multi-level representation network variations can improve the model's ability.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Task 3 (Golden Project-I) : Blindness Detection 
+*Task 3 (Golden Project-I) : Blindness Detection 
 * Technology & Tools used : 
-
 1) IDE : Jupyter Notebook 
 2) Language : Python 
 3) GitHub Respository Link : https://lnkd.in/gT8jNgPU
@@ -43,9 +39,8 @@ Task 3 (Golden Project-I) : Blindness Detection
 The goal here is to scale their efforts through technology; to gain the ability to automatically screen images for disease and provide information on how severe the condition may be. We shall be achieving this by building a Convolutional neural network model that can automatically look at a patient’s eye image and estimate the severity of blindness in the patient. This process of automation can reduce a lot of time thereby screening the process of treating diabetic retinopathy at a large scale.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Task 4 (Golden Project-II) : Personality Prediction System Via CV Analysis.
+*Task 4 (Golden Project-II) : Personality Prediction System Via CV Analysis.
 * Technology & Tools used : 
-
 1) IDE : Jupyter Notebook 
 2) Language : Python 
 3) GitHub Respository Link : https://lnkd.in/gXrqBpRp
@@ -55,18 +50,18 @@ factors to consider. The main idea of doing this project is to develop a machine
 My project's primary goal is to make personality predictions based on a person's BIG FIVE TEST score. Many job seekers will apply for a position when the business offers specific employment requirements and information. Therefore, job hopefuls fill out their online CV first before taking the test. In essence, the test we 
 utilised is the BIG FIVE TEST. 
 
-MODEL OF THE OCEAN *
+* MODEL OF THE OCEAN
 
-1.#Openness (O) - This quality is characterised by traits like acceptance, imagination, and curiosity. 
+1.Openness (O) - This quality is characterised by traits like acceptance, imagination, and curiosity. 
 
-2.#Conscientiousness (C) - Conscientiousness refers to a high degree of deliberation, an attitude of goal-
+2.Conscientiousness (C) - Conscientiousness refers to a high degree of deliberation, an attitude of goal-
 orientedness, and good judgement.
 
-3.#Extraversion (E) - Energy, talkativeness, and assertiveness are qualities of extraversion, which is also known as extroversion.
+3.Extraversion (E) - Energy, talkativeness, and assertiveness are qualities of extraversion, which is also known as extroversion.
 
-4.#Agreeableness (A) - Agreeability refers to the characteristics of a person, including trust, affection, and social behaviour.
+4.Agreeableness (A) - Agreeability refers to the characteristics of a person, including trust, affection, and social behaviour.
 
-5.#Neuroticism (N) - Neuroticism is characterised by traits like depression, moodiness, and abrupt emotional outbursts.
+5.Neuroticism (N) - Neuroticism is characterised by traits like depression, moodiness, and abrupt emotional outbursts.
 are the five  variables used to analyse a person's personality.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
